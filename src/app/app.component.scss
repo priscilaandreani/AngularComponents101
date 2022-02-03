@@ -1,0 +1,22 @@
+app-progress-bar {
+  width: 100%;
+  margin: 0;
+}
+
+.initInput {
+  display: flex;
+
+  label {
+    font-size: 20px;
+  }
+  input {
+    margin-left: 8px;
+    font-size: 20px;
+    flex: 1;
+    min-width: 50px;
+  }
+}
+
+button {
+  margin: 1% 50%;
+}
